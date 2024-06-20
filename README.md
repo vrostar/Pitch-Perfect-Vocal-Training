@@ -12,7 +12,7 @@ All you need is a microphone and a computer and you can sing your heart out.
 
 I've made use of the Pitch Detection code from Unity's [NativeAudioPlugins](https://github.com/Unity-Technologies/NativeAudioPlugins)
 
-The functionality I've added is described in the Pith Detection script file but I'll summarise:
+The functionality I've added is described in the Pitch Detection script file but I'll summarise:
 + Added point detection for hitting correct notes by making use of Signal Triggers on the TimeLine
 + Added detailed Stat Screen to give users feedback and insight into their vocal training 
 
