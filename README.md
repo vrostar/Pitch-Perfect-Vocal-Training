@@ -16,7 +16,5 @@ The functionality I've added is described in the Pitch Detection script file but
 + Added point detection for hitting correct notes by making use of Signal Triggers on the TimeLine
 + Added detailed Stat Screen to give users feedback and insight into their vocal training 
 
-![](https://github.com/vrostar/Pitch-Perfect-Vocal-Training/blob/main/Sprites/PitchPerfDemon.gif)
-
 This Project is meant to be loaded with the Unity Native Audio Plugins project
 Simply drag all Assets into Native Audio Plugins for the added functionality to work
