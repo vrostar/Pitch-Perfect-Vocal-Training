@@ -1,8 +1,4 @@
 # Pitch-Perfect-Vocal-Training
-Level Up Your Voice
-
-Do you want to sing like Elvis, but your voice isn't quite there yet?
-Pitch Perfect is here to help you train your voice in a fun way!
 
 Pitch Perfect is a game that makes vocal training more engaging and offers instant visual feedback for singers so they can get more out of their vocal training exercises. The goal is to make vocal training more fun and motivating by giving user's reliable feedback, stats, scores and personalisation.
 
@@ -13,3 +9,14 @@ Every pitch held perfectly gives you points so you can keep track of how well yo
 All you need is a microphone and a computer and you can sing your heart out.
 
 *This school project is a proof of concept features may not work as intended in the final release
+
+I've made use of the Pitch Detection code from Unity's [NativeAudioPlugins](https://github.com/Unity-Technologies/NativeAudioPlugins)
+
+The functionality I've added is described in the Pith Detection script file but I'll summarise:
++ Added point detection for hitting correct notes by making use of Signal Triggers on the TimeLine
++ Added detailed Stat Screen to give users feedback and insight into their vocal training 
+
+![](https://github.com/vrostar/Pitch-Perfect-Vocal-Training/blob/main/Sprites/PitchPerfDemon.gif)
+
+This Project is meant to be loaded with the Unity Native Audio Plugins project
+Simply drag all Assets into Native Audio Plugins for the added functionality to work
