@@ -1,2 +1,15 @@
 # Pitch-Perfect-Vocal-Training
 Level Up Your Voice
+
+Do you want to sing like Elvis, but your voice isn't quite there yet?
+Pitch Perfect is here to help you train your voice in a fun way!
+
+Pitch Perfect is a game that makes vocal training more engaging and offers instant visual feedback for singers so they can get more out of their vocal training exercises. The goal is to make vocal training more fun and motivating by giving user's reliable feedback, stats, scores and personalisation.
+
+Using vocal controls and pitch detection you are able to visualise your voice and gain instant feedback. There is a wide array of exercises taylored to your specific needs so you can choose the exercise that best suits you.
+
+Every pitch held perfectly gives you points so you can keep track of how well you're doing. Earn a perfect score and master your own voice!
+
+All you need is a microphone and a computer and you can sing your heart out.
+
+*This school project is a proof of concept features may not work as intended in the final release
